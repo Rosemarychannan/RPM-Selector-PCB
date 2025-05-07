@@ -1,0 +1,15 @@
+,Name,Description,Designator,Part Number,Price,Qty
+,0.01uF,"Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 10uF, X5R, 15%, 20%, 6.3V","C1, C2, C3, C4, C5","Murata GRM188R60J106ME47D, ",0.325,5
+,B6B-XH-A(LF)(SN),CONN HEADER VERT 6POS 2.5MM,J1,JST B6B-XH-A(LF)(SN),0.117,1
+,Resistor 100K +/-5% 0805 125 mW,"Fixed Resistor, Metal Glaze/thick Film, 0.125W, 100000ohm, 150V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805","R1, R7, R8, R14","Panasonic ERJ-6GEYJ104V, ",0.032,4
+,Resistor 1K +/-5% 0805 500 mW,"Fixed Resistor, Metal Glaze/thick Film, 0.5W, 1000ohm, 400V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805","R2, R4, R5, R6, R9, R11, R12, R13","Panasonic ERJ-P06J102V, ",0.312,8
+,RC0603FR-07348KL,,"R3, R10","Yageo RC0603FR-07348KL, ",0.056,2
+,RC0603FR-071K5L,"Chip Resistor, 1.5 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel","R15, R17","Yageo RC0603FR-071K5L, ",0.1,2
+,CRCW06031K60FKEA,,"R16, R18","Vishay CRCW06031K60FKEA, ",0.006,2
+,10k,"Chip Resistor, 10 KOhm, +/- 1%, 100 mW, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel",RPU,Vishay CRCW060310K0FKEA,0.01,1
+,450405020524,450405020524 WS-SLSU Mini Slide Switch,SW1,Wurth Electronics 450405020524,1.01,1
+,CT100LW-IS6,Differential TMR high sensitivity Magnetic 1D Linear sensor,U1,Allegro MicroSystems CT100LW-IS6,0.89,1
+,DRV5013,SENSOR HALL ANALOG SOT23-3,U2,Texas Instruments DRV5053VAQDBZR,0.3498,1
+,TLV7031DCKR,VOLTAGE COMPARATOR,"U3, U4, U5, U6","Texas Instruments TLV7031DCKR, ",1.8724,4
+,SN74LVC1G3157DCKR,"SPDT, 1 Func, 1 Channel, CMOS, PDSO6","U7, U8","Texas Instruments SN74LVC1G3157DCKR, ",0.24,2
+,SN65LVDS9638D,1500-Mbps LVDS dial high speed differential driver,U9,,,1

@@ -1,6 +1,5 @@
 # RPM-Selector-PCB
 4 layer 36.00mm x 29.00mm PCB to select two different analog sensor 
-***
 # Project Overview
 It was made to select between two analog sensor with a mechanical switch, convert to digital signal, then interface with the main DAQ module using differential digital signal.
 # PCB Front View:
